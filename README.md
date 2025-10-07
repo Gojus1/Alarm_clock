@@ -2,6 +2,8 @@
 A sophisticated embedded alarm clock system built with Arduino featuring dual displays, EEPROM persistence, and event-driven architecture.
 The project demonstrates advanced embedded systems concepts including state machines, non-blocking timing, and peripheral interfacing.
 
+![Preview](alarm.png)
+
 ## Features
 - Dual Display System: 16x2 LCD for time + 128x32 OLED for status messages
 
